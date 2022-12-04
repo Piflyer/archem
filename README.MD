@@ -7,7 +7,7 @@ A simple and immersive AR application that allows you to visualize the molecular
 - You can also host this application on your own server.
 
 ## How it works
-This app uses AR.js to detect the Hiro marker and then displays the 3D model of the molecule.
+This web app uses [AR.js](https://github.com/AR-js-org/AR.js/) to detect the Hiro marker and then displays the 3D model of the molecule.
 
 ## Accessing the 3D models
 All 3D models are stored as `.glb` files with Draco compression. For more information on obtaining the models from the CDN, see this [guide.](https://github.com/Piflyer/cdn)
